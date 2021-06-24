@@ -1,0 +1,7 @@
+修改注册表设置不锁屏
+【英文】gpedit.msc=>User Configuration=>Administraive Templates=>Control Panel=>Personalized=>Enable  screen saver =>Disabled
+【英文】gpedit.msc=>User Configuration=>Administraive Templates=>Control Panel=>Personalized=>Password protect the screen saver =>Disabled
+【英文】gpedit.msc=>User Configuration=>Administraive Templates=>Control Panel=>Personalized=>Screen saver timeout =>Disabled
+【中文】gpedit.msc=>用户配置 => 管理模板 => 控制面板 => 个性化 => 启动屏保功能 => 已禁用
+【中文】gpedit.msc=>用户配置 => 管理模板 => 控制面板 => 个性化 => 带密码的屏幕保护程序 => 已禁用
+【中文】gpedit.msc=>用户配置 => 管理模板 => 控制面板 => 个性化 => 屏幕保护程序超时 => 已禁用
